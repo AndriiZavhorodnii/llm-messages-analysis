@@ -1,0 +1,35 @@
+# This is a simplified .gitignore file.
+
+# JetBrains IDE
+.idea/
+
+# Python build artifacts and cache
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+
+# Test reports
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS specific
+.DS_Store
+
+# data
+/data
