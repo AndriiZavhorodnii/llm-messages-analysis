@@ -24,6 +24,7 @@ htmlcov/
 
 # Logs
 *.log
+/logs
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
@@ -38,3 +39,4 @@ htmlcov/
 
 
 /creds
+

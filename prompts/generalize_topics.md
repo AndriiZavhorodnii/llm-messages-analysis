@@ -35,5 +35,6 @@ Please structure your output in Markdown format as a table that looks like this.
 | Main Topic2 | Sub-Topic21 | Keyword6, Keyword7           |
 ... 
 
-
+VERY IMPORTANT: **don't use a sample of data, check the whole dataset = all reviews**
+!!!!!VERY VERY IMPORTANT: DO NOT USE CODE TO ANALYZE REVIEWS!!!!!!
 **Customer Reviews Dataset in pinned csv file**

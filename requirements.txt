@@ -1,6 +1,8 @@
 numpy
 pandas
 openai
+google
+google-genai
 ruamel.yaml
 joblib
 tqdm
