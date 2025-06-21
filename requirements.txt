@@ -1,4 +1,6 @@
-
 numpy
 pandas
 openai
+ruamel.yaml
+joblib
+tqdm
